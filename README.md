@@ -24,17 +24,12 @@
   </ul>
 
   <h2>Especificação do Projeto</h2>
-  <ol>
-    <li>Coletar dados</li>
-    <li>Realizar pré-processamento</li>
-    <ul>
-      <li>Definição de tipos</li>
-      <li>Tratamento de dados ausentes</li>
-      <li>Limpeza de dados (univariado e bivariado)</li>
-      <li>Normalização e discretização</li>
-    </ul>
-    <li>Apresentar estatísticas descritivas dos dados com visualizações</li>
-  </ol>
+
+  <ul>
+    <li>
+    O objetivo desse trabalho é utilizar estatística descritiva de dados para avaliar a base divorce e verificar quais perguntas são mais significativas para predizer se um casal irá se divorciar ou permanecer casado.
+    </li>
+  </ul>
 
   <h2>Fonte de dados</h2>
   
@@ -42,11 +37,11 @@
   Base <a href="https://github.com/bethmorais/aed-edd/blob/master/divorce.csv" target="_blank">Divorce</a>
   </p>
   <p>
-  Os dados analisados referem-se a uma pesquisa realizada com casais, identificando que permanece casado e quem se divorciou.
-  </p>
-  <p>
-  O objetivo desse trabalho é avaliar os dados e verificar quais perguntas contribuem para um casal se divorciar.
-  </p>
+  <ul>
+    <li>
+    Os dados analisados referem-se a uma pesquisa realizada com casais, identificando quem permanece casado e quem se divorciou.
+    </li>
+  </ul>
 
   <h2>Google Colab</h2>
   <a href="https://github.com/bethmorais/aed-edd/blob/master/aed_edd_divorce_task2.ipynb" target="_blank">Notebook aed-edd projeto</a>
